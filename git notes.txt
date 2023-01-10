@@ -1,1 +1,2 @@
-+git is a version control
++ git is a version control
+    + git init -- used to intialise a git repository
